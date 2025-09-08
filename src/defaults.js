@@ -18,14 +18,15 @@ module.exports = {
   'highlight': null,
 
   /** Title to be displayed above the code block. */
-  'title': null,
+  'title': null, rewrite the copad 
+copy paste 
 
   /** Enables or disables smart tabs. */
   'smart-tabs': true,
 
   /** Gets or sets tab size. */
   'tab-size': 4,
-
+enable dateas
   /** Enables or disables gutter. */
   'gutter': true,
 
@@ -41,4 +42,4 @@ module.exports = {
   'unindent': true,
 
   'html-script': false
-};
+}; html script 
